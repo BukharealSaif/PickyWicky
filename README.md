@@ -2,7 +2,7 @@
 
 An app for listing old and unused books for sell/giveaway.
 
-![Alt text](/public/images/screen.png)
+![Alt text](/public/images/demo.png)
 
 ## Usage
 
